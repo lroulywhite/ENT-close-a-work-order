@@ -1,0 +1,27 @@
+{
+  "product": "enterprise",
+  "snapshot_id": "enterprise-2026-10-v1",
+  "captured_on": "2026-10-23",
+  "captured_by": "Lauren Rouly-White (DCS)",
+  "source_environment": "masterdemo.ungerboeck.net (Enterprise demo)",
+  "app_version_visible": null,
+  "viewport": "1920x1080 (PNGs rendered offline from the SingleFile captures at this size)",
+  "mock_data_confirmed_safe": true,
+  "mock_data_confirmation": "Confirmed by the user in chat on 2026-10-23",
+  "files": {
+    "screens/edit-event-work-orders__default.png": "9ad22d45a92023ec12c2cad1e4c47448fc91e3aea433cb9b9081af80ddedf319",
+    "screens/edit-event-work-orders__edit-submenu.png": "3fedf7192e232c8f5af72d2b17d29625ca0da2e8a3a0842796f9c25237c70b09",
+    "screens/edit-event-work-orders__row-menu.png": "b9c7bf7c1284f62dfa11de7e5073bc663964ee9c961d2946612ba29e70f6b4c7",
+    "screens/edit-event-work-orders__tools-submenu.png": "c7e9cb02c4d1ecfd51d554c1ddc17786999826fa9b9fc0eebddebbac76c6c0e8",
+    "screens/edit-work-order-items__actions-tools-submenu.png": "f05fd456fff11727c96179f0a2f76296f33db92ddb7cf6b8700489fc461b6091",
+    "screens/edit-work-order-items__default.png": "709293938fddcf370f5671a1afbbd61ab8b5c25c1b3f9ae4856041957d9b9c4d"
+  },
+  "source_captures_sha256": {
+    "edit-event-work-orders__default": "9064e0e1014517f79e6074120b01372624bd7c4520317ed1fae0d1ad5a9880bf",
+    "edit-event-work-orders__row-menu": "93facb74311ecc2a6783c11a27007a77f99b1bfd5b62dfa2a0844c9b1ae4f5be",
+    "edit-event-work-orders__tools-submenu": "bcb7ecf9821e4bdb370e6bb8b3fa23b52e4b5ba8abfd1c07f62858bdc1bee500",
+    "edit-event-work-orders__edit-submenu": "b9be597238e874d1a9c2426090a8bb5d9dbea88449fcd3a3e43db313234e70d2",
+    "edit-work-order-items__default": "ed576f8b2deb49aa1d87621acb75e1ae5562b58a0c00db43452575a420bdc2b3",
+    "edit-work-order-items__actions-tools-submenu": "ce7d6126895cff7b3136a100e47d3d1349239d063aa798985189c299113c011a"
+  }
+}

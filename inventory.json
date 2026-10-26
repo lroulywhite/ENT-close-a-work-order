@@ -1,0 +1,38 @@
+{
+  "screens": [
+    {
+      "id": "edit-event-work-orders",
+      "title": "Edit Event, Work Order tab",
+      "navigation_path": "Events > Edit Event > Work Order tab",
+      "states": [
+        "default",
+        "row-menu",
+        "tools-submenu",
+        "edit-submenu"
+      ],
+      "files": {
+        "default": "screens/edit-event-work-orders__default.png",
+        "row-menu": "screens/edit-event-work-orders__row-menu.png",
+        "tools-submenu": "screens/edit-event-work-orders__tools-submenu.png",
+        "edit-submenu": "screens/edit-event-work-orders__edit-submenu.png"
+      },
+      "html_fidelity": "screenshot-only",
+      "notes": "Event shows a cancelled banner and all work orders are Completed. SingleFile HTML needs its nesting-restore script to render, so it is not stored here."
+    },
+    {
+      "id": "edit-work-order-items",
+      "title": "Edit Work Order, Work Order Items tab",
+      "navigation_path": "Edit Event > Work Order tab > right-click work order > Edit > Edit Work Order",
+      "states": [
+        "default",
+        "actions-tools-submenu"
+      ],
+      "files": {
+        "default": "screens/edit-work-order-items__default.png",
+        "actions-tools-submenu": "screens/edit-work-order-items__actions-tools-submenu.png"
+      },
+      "html_fidelity": "screenshot-only",
+      "notes": "Actions menu is captured only with the Tools submenu already open. No post-complete state captured."
+    }
+  ]
+}
